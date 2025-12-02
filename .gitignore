@@ -1,2 +1,3 @@
 node_modules/
 logs.json  # Don't commit sample logs
+.vercel
