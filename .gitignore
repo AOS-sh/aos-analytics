@@ -1,3 +1,9 @@
 node_modules/
 logs.json  # Don't commit sample logs
 .vercel
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env
+

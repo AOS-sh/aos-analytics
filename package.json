@@ -18,7 +18,9 @@
   "homepage": "https://github.com/AOS-sh/aos-analytics#readme",
   "description": "",
   "dependencies": {
+    "@supabase/supabase-js": "^2.86.0",
     "body-parser": "^2.2.1",
+    "dotenv": "^17.2.3",
     "ejs": "^3.1.10",
     "express": "^5.2.1"
   }
